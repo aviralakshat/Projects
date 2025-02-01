@@ -19,9 +19,6 @@ SQL functions that I used in this project:
 * **Subqueries:** These represent SELECT statements executed within another SELECT statement.
 * **Window functions:** These functions empower me to conduct calculations across a group of rows.
 
-## Analysis & Insights 
-
-Detailed analysis and insights found on my Blog Post : [here](https://medium.com/@poojapatel26/optimizing-online-sports-retail-revenue-through-sql-db92c2a6cd84)
 
 ## Suggestions :
 
